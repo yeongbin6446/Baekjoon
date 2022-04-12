@@ -42,5 +42,3 @@ for i in box:
         exit(0)
     ans = max(ans , max(i))
 print(ans - 1)
-
-
